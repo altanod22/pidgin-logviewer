@@ -1,16 +1,14 @@
-#summary One-sentence summary of this page.
 #labels Featured,Phase-Deploy
-
-= Install Instructions =
+= Introduction =
 
 This page contains instructions about installing the pidgin-logviewer plugin.
 
 
-= Details =
+= Instructions =
 
-Steps
   * Copy the logplugin.so file to ~/.purple/plugins, where ~ usually stands for /home/username
   * If the above path does not exist, you can create it.
+  * Optionally, if you have administrator privileges, you may copy to /usr/lib/pidgin
   * Restart pidgin
   * From Tools > Plugins, turn on *Log Viewer* (_not Log Reader_).
   * Now to see the log viewer dialog, go to Tools > Log Viewer > View Logs.
