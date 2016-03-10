@@ -1,0 +1,1 @@
+This project aims to present an alternative, user-friendly and intuitive way of viewing chat logs in Pidgin. Currently the project is in an early stage, and is designed as a plugin, but it eventually aims to replace pidgin's default log viewer.
